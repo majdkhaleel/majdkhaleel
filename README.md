@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majdkhaleel
-- 👀 I’m interested in application programming and cloud computing
-- 🌱 I’m currently learning application programming 
+- 👀 I’m interested in applications programming and cloud computing
+- 🌱 I’m currently learning applications programming 
 - 💞️ I’m looking to collaborate on destriputes a useful applications  
 - 📫 How to reach me by contacting on email 
 
